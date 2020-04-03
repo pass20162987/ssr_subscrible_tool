@@ -22,13 +22,6 @@ vmess://eyJhZGQiOiJqLnllY3QudG9wIiwiYWlkIjoiMjIiLCJob3N0Ijoiai55ZWN0LnRvcCIsImlk
 
 vmess://eyJhZGQiOiJlLnllY3QudG9wIiwiYWlkIjoiMjIiLCJob3N0IjoiZS55ZWN0LnRvcCIsImlkIjoiZTRiNDI5NDUtMzg5ZS00YmE3LWEzZjctMWEwNDM0YzgyNjljIiwibmV0Ijoid3MiLCJwYXRoIjoiLzRkZDM4M2RkLyIsInBvcnQiOiI0NDMiLCJwcyI6IuWbvemZhemYv+mHjOS6kSDpppnmuK8gRSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-#trojan gcp 香港
-
-trojan://857195@hk.52f.online:443
-
-#trojan gcp 日本
-
-trojan://857195@jp.52f.online:443
 
 #中转
 
